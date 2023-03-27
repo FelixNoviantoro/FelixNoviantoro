@@ -5,7 +5,7 @@
 - 🌱 I'm a RnD currently working on PT. Tabeldata Informatika.
 - 🤖 I'm interested in software development technologies, and I'm learning about new technologies and tools especially on backend and DevOps.
 
-### Some Teaching Experience
+### Tutor Experiences
 
 - Frontend and Backend tutor at Telkom University
 - an assistant in a cloud native workshop at Telkom University
